@@ -8,7 +8,7 @@ This agentic system will analyse the applicant's resume and the job description,
 
 ## Final Graph
 
-![alt text](image.png)
+![alt text](final-graph.png)
 
 ## How to run the model
 
