@@ -1,0 +1,9 @@
+dotenv
+langchain 
+langgraph 
+langchain_openai 
+python-dotenv 
+pydantic 
+requests 
+beautifulsoup4 
+ipython
